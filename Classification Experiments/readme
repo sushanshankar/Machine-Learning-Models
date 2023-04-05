@@ -1,0 +1,3 @@
+Classification
+We have performed classification experiments on five datasets: Australian, Heart, Ionosphere, PIMA, and WDBC, taken from the UCI machine learning repository. 
+For each dataset, we have used three different algorithms to perform classification: Gradient Boosting, Decision Tree, and Logistic Regression.
